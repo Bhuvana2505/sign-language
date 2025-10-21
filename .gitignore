@@ -1,0 +1,9 @@
+# Ignore dataset and generated files
+data/
+keypoints/
+
+__pycache__/
+*.npy
+*.mp4
+.DS_Store
+*.log
